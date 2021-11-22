@@ -91,4 +91,4 @@ async def userinfo(ctx, member: discord.Member):
 
     await ctx.send(embed=embed)
 
-bot.run('OTExMjY5MzUxODEyOTE5MzA2.YZe7uA.I8pkrVw1h2oeSft2MNWmz_4_Zp4')
+bot.run('Discord-Token')
